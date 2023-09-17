@@ -52,6 +52,6 @@ while True:
     else:
         print("упс... произошла неизвестная ошибка")
         sys.exit()
-    time.sleep(2)
+    time.sleep(200)
 
 
